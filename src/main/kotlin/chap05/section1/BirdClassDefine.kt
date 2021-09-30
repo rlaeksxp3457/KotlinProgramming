@@ -21,7 +21,6 @@ class Bird {
         color = _color
     }
 
-
     //메서드
     fun fly() = println("Fly $wing")
     fun sing(volume: Int) = println("Sing $volume")
