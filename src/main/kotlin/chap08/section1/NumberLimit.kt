@@ -18,5 +18,4 @@ fun main(args: Array<String>) {
     println(calc2.plus(2.5,3.5))
     println(calc3.plus(5L, 10L))
 
-
 }
